@@ -1,0 +1,7 @@
+{
+  "name": "Unified Marketplace",
+  "description": "A premium marketplace with personalized onboarding logic, mindset-based feeds, and admin analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
